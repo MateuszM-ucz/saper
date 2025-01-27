@@ -1,0 +1,4 @@
+mati 0 2
+moli 0 9
+chrupek 0 0
+sch 0 5
